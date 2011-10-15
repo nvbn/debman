@@ -1,0 +1,5 @@
+*.log
+*.pot
+djang0byte/settings/local.py
+*.pyc
+*pip-delete-this-directory.txt
