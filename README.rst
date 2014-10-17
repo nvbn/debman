@@ -1,3 +1,7 @@
+Project no longer developed and maintained, you can try similar project - https://github.com/LaPingvino/jogurto
+--------------------------------------------------------------------------------------------------------------
+
+
 About
 =====
 debman - apt frontend with pacman syntax
